@@ -1,4 +1,4 @@
-# Cloud Computing Flutter Frontend
+# Frontend Integration
 
 A new Flutter project.
 
