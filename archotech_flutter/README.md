@@ -1,4 +1,4 @@
-# cloud_computing
+# Cloud Computing Flutter Frontend
 
 A new Flutter project.
 
