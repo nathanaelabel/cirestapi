@@ -1,11 +1,11 @@
 # CIRESTAPI  
 
-Integration of a **RESTful API** with frontend using **CodeIgniter** and **Flutter**.  
+Integration of a **RESTful API** using **CodeIgniter** and **Flutter**.  
 
 ---
 
 ## 🧑‍💻 Developed for  
-Hands-on practice in **integrating a RESTful API** with a frontend using **CodeIgniter** and **Flutter** as part of the **Mobile Development course**.  
+Hands-on practice in **integrating a RESTful API** using **CodeIgniter** and **Flutter** as part of the **Mobile Development course**.  
 
 ---
 
